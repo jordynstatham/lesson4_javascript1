@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 10, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Jordyn Statham)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Learned how to use JavaScript fundamentals and the building blocks of the language to accomplish a task.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://jordynstatham.github.io/lesson4_javascript1/Lesson4_ExpenseCalculator/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (learned how the getElementbyId() method works.)
+2. (learned how to declare, initialize, modify and display variables.)
+3. (learned how to associate an event with an HTML element and define an event handler.)
 
